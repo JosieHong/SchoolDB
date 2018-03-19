@@ -1,0 +1,3 @@
+INSERT
+INTO Grades (Sno,Lno,Grade)
+VALUES ('15030199001','0001', 80);
