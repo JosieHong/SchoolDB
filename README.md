@@ -20,7 +20,7 @@ Functional requirements and implementation ideas:
 
 ## E-R Map
 
-![image_1csah5t99alk1gith133k38894d.png-64.6kB][1]
+![image_1csai031i153o18ljihgbb319nj6q.png-65.7kB][1]
 
 **Note**: The student number can reflect the information of its class number.
 
@@ -33,4 +33,4 @@ Determining the data in the database by the semantics of the database.
 3. A teacher can bring classes to multiple classes, but can not bring multiple classes to a class; (constructing teacher tables, and a many-to-many relationship between teachers, students, and courses)
 4. One course allows students to make up for one test at a time; students are expelled from one of the following conditions: 15 credits for failing compulsory courses or 20 credits for failing elective courses; (constructing transcripts, constructing compulsory courses Passing the view of students who pass the elective course and failing students)
 
-[1]: http://static.zybuluo.com/JosieException/8h6iykyoc1qak5jrhn0p86vp/image_1csah5t99alk1gith133k38894d.png
+  [1]: http://static.zybuluo.com/JosieException/wx2ypkeh8f433z6tl3d96hr7/image_1csai031i153o18ljihgbb319nj6q.png
