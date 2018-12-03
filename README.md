@@ -2,7 +2,7 @@
 
 SchoolDB is a university student management database system that conforms to the given semantics and performs specific functions. You can create tables with `CreateForm.sql` and start using the database with `SchoolDB/SchoolDataBase/src/GUI/Login.java`. 
 
-## Environment
+## Requirements
 
 - SQLServer
 - JAVA
